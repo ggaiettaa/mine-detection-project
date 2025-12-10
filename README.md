@@ -390,18 +390,18 @@ Anno Accademico: 2024/2025
 
 
 ### Data Distribution
-![Data Overview](results/figures/01_data_overview.png)
+![Data Overview](results/figures_corretti/01_panoramica_corretta.png)
 
 ### Random Forest Results
-![RF Comparison](results/figures/11_comparison_rf_detailed.png)
-![Feature Importance](results/figures/10_feature_importance_optimized.png)
+![RF Comparison](results/figures_ita/11_confronto_rf_dettagliato.png)
+![Feature Importance](results/figures_ita/10_importanza_features.png)
 
 ### Neural Network Training
 ![NN Training](results/figures/13_comparison_all_nn.png)
-![NN Comparison](results/figures/15_comparison_nn_detailed.png)
+![NN Comparison](results/figures_ita/15_confronto_nn_dettagliato.png)
 
 ### Clustering Analysis
 ![K-Means](results/figures/17_kmeans_clusters.png)
-![Clustering Comparison](results/figures/21_clustering_comparison.png)
+![Clustering Comparison](results/figures_ita/21_confronto_clustering.png)
 
 ------------------------------------------------------------------------
