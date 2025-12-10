@@ -9,6 +9,9 @@ di Anomalia Magnetica**
 
 ## 📋 Indice dei Contenuti
 
+Link del file
+https://www.canva.com/design/DAG5JskA-fc/OIhPmLSWQLwSAQV76sFXmA/view?utm_content=DAG5JskA-fc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b5eecc41a
+
 -   [Panoramica](#panoramica)
 -   [Dataset](#dataset)
 -   [Metodologia](#metodologia)
